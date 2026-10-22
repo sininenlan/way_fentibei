@@ -1,0 +1,3 @@
+filename,road_code,road_name,mileage,lane,lat,lng,terminal_id,timestamp,speed,weather,lane_confidence
+frame_0001.jpg,G312-K1082+350,G312 沪霍线 · 灞桥段,K1082+350,上行 · 第2车道,34.27386,109.06421,TERM-XA-017,2026-10-21T08:12:00+08:00,42,阴,0.88
+frame_0002.jpg,XA-CB-007-K3+260,灞桥区乡道 007 · 席王段,K3+260,双向 · 右侧车道,34.28142,109.05277,TERM-XA-008,2026-10-21T07:40:00+08:00,28,阴,0.84

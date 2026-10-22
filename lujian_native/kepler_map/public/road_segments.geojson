@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [109.0200, 34.2670],
+          [109.0400, 34.2690],
+          [109.0642, 34.2739],
+          [109.0820, 34.2770],
+          [109.1050, 34.2800]
+        ]
+      },
+      "properties": {
+        "road_code": "G312",
+        "road_name": "G312 沪霍线",
+        "length_km": 46.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [109.0831, 34.2450],
+          [109.0810, 34.2570],
+          [109.0792, 34.2700],
+          [109.0720, 34.2860]
+        ]
+      },
+      "properties": {
+        "road_code": "S107",
+        "road_name": "S107 关中环线",
+        "length_km": 38.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [109.0370, 34.2860],
+          [109.0458, 34.2928],
+          [109.0391, 34.2899],
+          [109.0528, 34.2814],
+          [109.0642, 34.2739]
+        ]
+      },
+      "properties": {
+        "road_code": "XA-BY-002",
+        "road_name": "未央区县道 002",
+        "length_km": 18.4
+      }
+    }
+  ]
+}

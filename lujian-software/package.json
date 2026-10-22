@@ -1,0 +1,31 @@
+{
+  "name": "lujian-zhixun-platform",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npm run build && node scripts/launch.cjs server/index.mjs",
+    "server": "node scripts/launch.cjs server/index.mjs",
+    "build": "node scripts/launch.cjs build.mjs",
+    "start": "node scripts/launch.cjs server/index.mjs"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-leaflet": "^4.2.1",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-react": "^7.26.3",
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "@rollup/plugin-node-resolve": "^15.3.1",
+    "@rollup/plugin-replace": "^6.0.2",
+    "playwright-core": "^1.64.1",
+    "rollup": "^4.30.1"
+  }
+}

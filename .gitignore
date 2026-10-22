@@ -1,0 +1,40 @@
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# Node.js
+**/node_modules/
+**/dist/
+**/coverage/
+**/.vite/
+**/__pycache__/
+**/*.py[cod]
+
+# Flutter and Dart
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/build/
+**/coverage/
+**/*.iml
+**/.packages
+**/.pub-cache/
+**/.pub/
+
+# Android and Gradle
+**/.gradle/
+**/.cxx/
+**/local.properties
+**/captures/
+**/*.jks
+**/*.keystore
+**/key.properties
+
+# Generated screenshots and local build outputs
+**/artifacts/
+
+# GitHub rejects files larger than 100 MB. Rebuild this APK locally.
+lujian_native/releases/workorder_app/*.apk

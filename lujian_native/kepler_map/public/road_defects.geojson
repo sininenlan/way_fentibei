@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [109.06421, 34.27386] },
+      "properties": {
+        "id": "DEF-20261021-014",
+        "type_name": "横向裂缝",
+        "type_code": "D10",
+        "severity_group": "高风险",
+        "severity_color": "高风险",
+        "road_code": "G312-K1082+350",
+        "road_name": "G312 沪霍线 · 灞桥段",
+        "latitude": 34.27386,
+        "longitude": 109.06421,
+        "terminal_count": 6,
+        "confidence": 0.93,
+        "status_name": "待研判",
+        "captured_at": "2026-10-21T10:46:00+08:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [109.05277, 34.28142] },
+      "properties": {
+        "id": "DEF-20261021-013",
+        "type_name": "坑槽",
+        "type_code": "D40",
+        "severity_group": "高风险",
+        "severity_color": "高风险",
+        "road_code": "XA-CB-007-K3+260",
+        "road_name": "灞桥区乡道 007 · 席王段",
+        "latitude": 34.28142,
+        "longitude": 109.05277,
+        "terminal_count": 4,
+        "confidence": 0.90,
+        "status_name": "处置中",
+        "captured_at": "2026-10-21T09:52:00+08:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [109.03914, 34.28991] },
+      "properties": {
+        "id": "DEF-20261021-010",
+        "type_name": "坑槽",
+        "type_code": "D40",
+        "severity_group": "高风险",
+        "severity_color": "高风险",
+        "road_code": "XA-BY-002-K7+120",
+        "road_name": "未央区县道 002 · 汉城段",
+        "latitude": 34.28991,
+        "longitude": 109.03914,
+        "terminal_count": 7,
+        "confidence": 0.95,
+        "status_name": "已派发",
+        "captured_at": "2026-10-21T10:06:00+08:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [109.04584, 34.29276] },
+      "properties": {
+        "id": "DEF-20261021-006",
+        "type_name": "龟裂",
+        "type_code": "D20",
+        "severity_group": "高风险",
+        "severity_color": "高风险",
+        "road_code": "XA-BY-002-K8+050",
+        "road_name": "未央区县道 002 · 汉城段",
+        "latitude": 34.29276,
+        "longitude": 109.04584,
+        "terminal_count": 5,
+        "confidence": 0.91,
+        "status_name": "待研判",
+        "captured_at": "2026-10-21T09:48:00+08:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [109.07924, 34.25496] },
+      "properties": {
+        "id": "DEF-20261021-008",
+        "type_name": "横向裂缝",
+        "type_code": "D10",
+        "severity_group": "中风险",
+        "severity_color": "中风险",
+        "road_code": "S107-K044+930",
+        "road_name": "S107 关中环线 · 长安段",
+        "latitude": 34.25496,
+        "longitude": 109.07924,
+        "terminal_count": 3,
+        "confidence": 0.88,
+        "status_name": "待研判",
+        "captured_at": "2026-10-21T10:12:00+08:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [109.07458, 34.26925] },
+      "properties": {
+        "id": "DEF-20261021-011",
+        "type_name": "纵向裂缝",
+        "type_code": "D00",
+        "severity_group": "中风险",
+        "severity_color": "中风险",
+        "road_code": "G312-K1081+860",
+        "road_name": "G312 沪霍线 · 灞桥段",
+        "latitude": 34.26925,
+        "longitude": 109.07458,
+        "terminal_count": 2,
+        "confidence": 0.82,
+        "status_name": "已派发",
+        "captured_at": "2026-10-21T10:34:00+08:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [109.08311, 34.25867] },
+      "properties": {
+        "id": "DEF-20261021-012",
+        "type_name": "龟裂",
+        "type_code": "D20",
+        "severity_group": "中风险",
+        "severity_color": "中风险",
+        "road_code": "S107-K045+780",
+        "road_name": "S107 关中环线 · 长安段",
+        "latitude": 34.25867,
+        "longitude": 109.08311,
+        "terminal_count": 3,
+        "confidence": 0.86,
+        "status_name": "待复核",
+        "captured_at": "2026-10-21T10:18:00+08:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [109.09512, 34.26561] },
+      "properties": {
+        "id": "DEF-20261021-009",
+        "type_name": "修补破损",
+        "type_code": "D44",
+        "severity_group": "低风险",
+        "severity_color": "低风险",
+        "road_code": "XA-NH-011-K2+640",
+        "road_name": "长安区乡道 011 · 王曲段",
+        "latitude": 34.26561,
+        "longitude": 109.09512,
+        "terminal_count": 1,
+        "confidence": 0.74,
+        "status_name": "观察中",
+        "captured_at": "2026-10-21T10:02:00+08:00"
+      }
+    }
+  ]
+}
